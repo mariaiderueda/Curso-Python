@@ -1,5 +1,5 @@
 # Curso-Python
-Introduction and intermediate python material
+Introduccion a Python
 
 El curso de "introduction and intermediate python" hará uso de la Encuesta Nacional de Ingreso y Gasto de los Hogares (ENIGH) para aprender de los siguientes rubros de Python:
   1. Basicos de Python: Aprenderemos a usar la plataforma de Jupyter notebook, Python script, creación de comnetarios y variables, operaciones básicas y tipos de variables.
